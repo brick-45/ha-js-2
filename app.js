@@ -57,9 +57,9 @@ var integer = 42;
 var stringNumber = "256";
 
 var converteInt = parseInt(stringNumber);
-var convertedString = toString(integer);
-
 console.log(converteInt);
+
+var convertedString = toString(integer);
 console.log(convertedString);
 
 
